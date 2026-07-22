@@ -1,4 +1,3 @@
-/* TARANG — main.js */
 document.addEventListener('DOMContentLoaded', () => {
 
   /* ---------- Footer year ---------- */
